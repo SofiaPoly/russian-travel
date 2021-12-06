@@ -1,31 +1,30 @@
 .places {
+  color: #ffffff;
+  margin: 92px 148px 0;
   display: grid;
   row-gap: 80px;
-  color: #ffffff;
   min-width: 984px;
-  margin: 92px 148px;
-  padding: 0;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1200px) {
   .places {
     min-width: 928px;
-    margin: 92px 48px;
+    margin: 92px 48px 0;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 990px) {
   .places {
     min-width: 720px;
-    margin: 88px 24px 90px;
+    margin: 88px 24px 0;
     row-gap: 73px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 760px) {
   .places {
     min-width: 320px;
-    margin: 64px 0 66px;
+    margin: 64px 0 0;
     row-gap: 50px;
   }
 }

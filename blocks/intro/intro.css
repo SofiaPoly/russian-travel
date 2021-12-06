@@ -3,30 +3,27 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 690px;
-  height: 429px;
+  min-width: 690px;
   margin: 92px 442px 0 148px;
   padding: 0;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1200px) {
   .intro {
     margin: 92px 286px 0 48px;
   }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 990px) {
   .intro {
-    width: 720px;
-    height: 429px;
+    min-width: 720px;
     margin: 88px 24px 0;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 760px) {
   .intro {
-    width: 288px;
-    height: 754px;
+    min-width: 288px;
     margin: 64px 16px 0;
   }
 }

@@ -1,13 +1,8 @@
 .page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   min-width: 320px;
   max-width: 1280px;
-  max-width: 100vw;
   margin: 0 auto;
   font-family: 'Inter';
-  background-color: #2A2C2F;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
@@ -15,3 +10,4 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
 }
+
