@@ -1,0 +1,22 @@
+.cover {
+  margin: 92px 48px 0;
+  width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+  .cover {
+    margin: 92px 0 0;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .cover {
+    margin: 90px 0 0;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .cover {
+    margin: 66px 0 0;
+  }
+}
