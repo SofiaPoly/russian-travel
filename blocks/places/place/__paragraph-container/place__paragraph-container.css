@@ -3,9 +3,8 @@
   padding: 0;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .place__paragraph-container {
     margin: 0 16px;
-    padding: 0;
   }
 }

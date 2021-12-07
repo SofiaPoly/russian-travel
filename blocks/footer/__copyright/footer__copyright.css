@@ -7,7 +7,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .footer__copyright {
     line-height: 14px;
     margin: 48px 0 0;

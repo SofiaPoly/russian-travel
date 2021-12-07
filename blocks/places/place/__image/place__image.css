@@ -6,22 +6,21 @@
   padding: 0;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1279px) {
   .place__image {
     height: 440px;
   }
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 1024px) {
   .place__image {
     height: 340px;
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .place__image {
     height: 320px;
     margin: 32px 0;
-    padding: 0;
   }
 }

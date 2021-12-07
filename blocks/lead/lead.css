@@ -6,19 +6,19 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1279px) {
   .lead {
     margin: 48px 48px 0;
   }
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 1024px) {
   .lead {
     margin: 48px 0 0;
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .lead {
     margin: 48px 2px 0;
   }

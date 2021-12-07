@@ -9,7 +9,7 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;

@@ -5,21 +5,21 @@
   object-fit: cover;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1279px) {
   .lead__image {
     min-width: 928px;
     min-height: 580px;
   }
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 1024px) {
   .lead__image {
     min-width: 768px;
     min-height: 480px;
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .lead__image {
     min-width: 320px;
     min-height: 200px;

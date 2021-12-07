@@ -10,19 +10,19 @@
   text-align: center;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1279px) {
   .lead__subtitle {
     margin: 32px 144px 56px;
   }
 }
 
-@media screen and (max-width: 990px) {
+@media screen and (max-width: 1024px) {
   .lead__subtitle {
     margin: 32px 64px 56px;
   }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
   .lead__subtitle {
     max-width: 288px;
     font-size: 16px;
