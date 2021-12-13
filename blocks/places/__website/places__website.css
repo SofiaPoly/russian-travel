@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 765px) {
   .places__website {
     align-self: center;
     margin: 32px 16px 0;

@@ -8,13 +8,13 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1020px) {
   .cover {
     margin: 90px 0 0;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 765px) {
   .cover {
     margin: 66px 0 0;
   }
